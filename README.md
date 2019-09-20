@@ -1,0 +1,1 @@
+Twitterボットの検出を教育目的で行うためのrepository
